@@ -1,18 +1,19 @@
 # ML-Course-Assignments
 
-This repository contains a collection of machine learning projects completed as part of my _"Machine Learning - CSAI 253 - Spring 2024"_ course at _University of Science and Technology at Zewail City_. The assignments focus on implementing and applying several core ML algorithms, with an emphasis on building some from scratch to demonstrate a deep understanding of their inner workings.
+This repository contains a collection of machine learning assignments completed as part of my _"Machine Learning - CSAI 253 - Spring 2024"_ course at _University of Science and Technology at Zewail City_. The assignments focus on implementing and applying several core ML algorithms, with an emphasis on building some from scratch to demonstrate a deep understanding of their inner workings.
 
 ---
 
-## 📁 Projects Overview
+## 📁 Repository Overview
 
-| # | Project                             | Key Concepts                                                           | Dataset         |
-|---|-------------------------------------|------------------------------------------------------------------------|-----------------|
-| 1 | K-Nearest Neighbors (from Scratch)  | KNN, Euclidean Distance, PCA, Normalization                            | Iris            |
-| 2 | Linear & Logistic Regression (from Scratch) | Normal Equation, Least Squares Classification                   | Synthetic, Iris  |
-| 3 | Neural Network (from Scratch)       | Forward/Backpropagation, Sigmoid Activation, Gradient Descent         | MNIST           |
-| 4 | Logistic Regression (from Scratch)  | Sigmoid, Cost Function, Gradient Descent, Data Cleaning               | Heart Attack    |
-| 5 | Naive Bayes Classifier              | Naive Bayes, Feature Engineering, EDA, Imputation                      | Titanic         |
+| # | Assignment                             | Key Concepts                                                                 | Dataset         |
+|---|-------------------------------------|------------------------------------------------------------------------------|-----------------|
+| 1 | K-Nearest Neighbors (from Scratch)  | KNN, Euclidean Distance, PCA, Normalization                                  | Iris            |
+| 2 | Linear & Logistic Regression (from Scratch) | Normal Equation, Least Squares Classification                         | Synthetic, Iris  |
+| 3 | Support Vector Machines with Kernels | SVM, Kernel Trick, Polynomial/RBF Kernels, Margin Maximization, Grid Search | Custom Dataset  |
+| 4 | Neural Network (from Scratch)       | Forward/Backpropagation, Sigmoid Activation, Gradient Descent               | MNIST           |
+| 5 | Logistic Regression (from Scratch)  | Sigmoid, Cost Function, Gradient Descent, Data Cleaning                     | Heart Attack    |
+| 6 | Naive Bayes Classifier              | Naive Bayes, Feature Engineering, EDA, Imputation                            | Titanic         |
 
 ---
 
