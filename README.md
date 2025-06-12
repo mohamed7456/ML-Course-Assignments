@@ -65,13 +65,6 @@ Each project is a self-contained Jupyter Notebook. To run them locally:
 - The code is designed for educational purposes and may not be optimized for production environments.
 
 ---
-
-## 📫 Contact
-
-Feel free to reach out for collaboration or questions.  
-**Email**: [your-email@example.com]  
-**LinkedIn**: [your-linkedin-profile]
-
 ---
 
 ## 📄 License
