@@ -61,10 +61,8 @@ Each project is a self-contained Jupyter Notebook. To run them locally:
 
 ## 📌 Notes
 
-- Each notebook contains comments and explanations to guide the learning process.
 - The code is designed for educational purposes and may not be optimized for production environments.
 
----
 ---
 
 ## 📄 License
