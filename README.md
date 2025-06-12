@@ -70,3 +70,5 @@ Each project is a self-contained Jupyter Notebook. To run them locally:
 ## 📄 License
 
 This repository is licensed under the MIT License.
+
+---
