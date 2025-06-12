@@ -8,8 +8,8 @@ This repository contains a collection of machine learning assignments completed 
 
 | # | Assignment                             | Key Concepts                                                                 | Dataset         |
 |---|-------------------------------------|------------------------------------------------------------------------------|-----------------|
-| 1 | K-Nearest Neighbors (from Scratch)  | KNN, Euclidean Distance, PCA, Normalization                                  | Iris            |
-| 2 | Linear & Logistic Regression (from Scratch) | Normal Equation, Least Squares Classification                         | Synthetic, Iris  |
+| 1 | K-Nearest Neighbors (from Scratch)  | KNN, Euclidean Distance, PCA                                  | Iris            |
+| 2 | Linear Regression (from Scratch) | Normal Equation, Least Squares Classification                         | Synthetic, Iris  |
 | 3 | Support Vector Machines with Kernels | SVM, Kernel Trick, Polynomial/RBF Kernels, Margin Maximization, Grid Search | Custom Dataset  |
 | 4 | Neural Network (from Scratch)       | Forward/Backpropagation, Sigmoid Activation, Gradient Descent               | MNIST           |
 | 5 | Logistic Regression (from Scratch)  | Sigmoid, Cost Function, Gradient Descent, Data Cleaning                     | Heart Attack    |
